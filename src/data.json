@@ -1,0 +1,142 @@
+{
+    "title": "Hello I'm Farsan!",
+    "subtitle": "Software engineer | Front end devloper | Back end devloper",
+    "links": 
+    {
+        "github": "https://github.com/farsonamiri2010",
+        "linkdin": "https://www.linkedin.com/",
+        "Instagram": "https://instagram.com/"
+    },
+    "sections" :
+    [
+        {
+            "title": "About me",
+            "items" : 
+                [
+                    {
+                        "type": "p",
+                        "content": "Hello i'm Farsan amiri i'm 14 and can programming with python, java, kotlin, dart, ruby, c, c++, c#, wordpress, flutter",
+                        "Frontend" : "Html5, Css3, Java Script, Bootstrap, Scss, Less, React, Jquery"
+                    },
+                    {
+                        "type": "p",
+                        "content": "At 2024 i graduated from cs50x harvard and cs50p of harvard unvircity and In the link below you can watch the certifcates of it ",
+                        "Cs50xlink" : "https://drive.google.com/drive/folders/1wiU1i-z6PG9adFteHX0I2XLyXTmhAiQf?usp=sharing",
+                        "Cs50p link" : ""
+                    },
+                    {
+                        "type": "p",
+                        "content": "And also i graduated from univercity of tehran for Ai course and c language course of univercity of sharif",
+                        "univercity of tehran link" : "",
+                        "univercity of sharif link" : ""
+                    },
+                    {
+                        "type": "p",
+                        "content": "And also i graduated from MFT for python and c++ and c# courses",
+                        "c#" : "",
+                        "c++" : "",
+                        "python": ""
+                    },
+                    
+                    {
+                        "type": "p",
+                        "content": "And you can watch other certifcates from me at below",
+                        "mimo_python" : "",
+                        "java" : "",
+                        "python": ""
+                    },
+                    {
+                        "content": "I can speak English , French , Persian , Turkish"
+                    }
+            
+                ]
+        },
+        {
+            "title": "Skilles",
+            "items" : [
+                {
+                    "type": "card",
+                    "content": {
+                        "image" : "",
+                        "title": "Python"
+                    }
+                },
+                {
+                    "type": "card",
+                    "content": {
+                        "image" : "",
+                        "title": "Java"
+                    }
+                },
+                {
+                    "type": "card",
+                    "content": {
+                        "image" : "",
+                        "title": "Front end"
+                    }
+                },
+                {
+                    "type": "card",
+                    "content": {
+                        "image" : "",
+                        "title": "Ruby"
+                    }
+                },
+                {
+                    "type": "card",
+                    "content": {
+                        "image" : "",
+                        "title": "C"
+                    }
+                },
+                {
+                    "type": "card",
+                    "content": {
+                        "image" : "",
+                        "title": "c++"
+                    }
+                },
+                {
+                    "type": "card",
+                    "content": {
+                        "image" : "",
+                        "title": "c#"
+                    }
+                },
+                {
+                    "type": "card",
+                    "content": {
+                        "image" : "",
+                        "title": "Kotline"
+                    }
+                },
+                {
+                    "type": "card",
+                    "content": {
+                        "image" : "",
+                        "title": "Dart"
+                    }
+                },
+                {
+                    "type": "card",
+                    "content": {
+                        "image" : "",
+                        "title": "React"
+                    }
+                }
+            ]
+        },
+        {
+            "title": "Contact me",
+            "items" : [
+                {
+                    "type": "card",
+                    "Email": "Farsonamiri90@gmail.com",
+                    "Phone": "+98-991-209-2860"
+                }
+
+            ]
+        }
+    ]
+
+}
